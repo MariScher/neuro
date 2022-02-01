@@ -1,34 +1,11 @@
-# Twitter Bootstrap
+# NeuroStartUp
 
-![Bootstrap logo](https://i.imgur.com/qhtywl2.png)
-**Twitter Bootstrap** -популярный набор компонентов для фронтенд-разработки.
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
-Построен на базе следующих технологий:
-*HTML
-*CSS
-*JavaScript
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
+ новейших технологий искусственного интеллекта.
 
-## Начало работы
-
-Есть несколько вариантов подключения:
-1. Пакетный менеджер [npm](https://npmjs.com);
-1. CDN.
-
-### Установка при помощи npm
-
-Откройте консоль и выполните следующую команду: `npm install bootstrap`
-
-### Установка при помощи CDN
-
-Если вы хотите подключить только CSS (без JavaScript-плагинов), добавьте в ваши html-файлы следующий код:
-```html
-<linkrel="stylesheet"
-    href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-    integrity="sha284-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkF0JwJ8ERdknLPMO"
-    crossorigin="anonymous">
-```
-
-## Использование
-
-Все возможности по использованию описаны в официальной документации.
-[Текст ссылки](http://localhost)
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
